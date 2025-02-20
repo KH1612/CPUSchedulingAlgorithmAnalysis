@@ -1,0 +1,9 @@
+Running:
+	Type "make FCFS" to run FCFS simulation
+	Type "make SJF" to run SJF algorithm
+	Results will be printed to excel files stored in the data section
+
+Report: 
+	All report data is stored in the report file
+	ResultsComb stored the data used in the report
+	Results0.txt and Results1.txt contain the console output of the respective simulations

@@ -1,0 +1,31 @@
+commit e006df3d37607d0852728a460992fd737cfaf74b (HEAD -> master)
+Author: Khaleel Hassan <khaleelhassan246@gmail.comgit config --global user.email khaleelhassan246@gmail.com@>
+Date:   Sun May 11 23:55:55 2024 +0200
+
+    Formatting
+
+commit 6a73fb650f93c20579c0f17e9ff6e853add171bb
+Author: Khaleel Hassan <khaleelhassan246@gmail.comgit config --global user.email khaleelhassan246@gmail.com@>
+Date:   Thu May 9 20:55:05 2024 +0200
+
+    Output to CSV
+
+commit 0adf318071d039ac91196e6c30fb3c4d93a00eef
+Author: Khaleel Hassan <khaleelhassan246@gmail.comgit config --global user.email khaleelhassan246@gmail.com@>
+Date:   Thu May 9 15:16:12 2024 +0200
+
+    SJF implemented
+
+commit 24a1fb15b65a4b234ea394358b2d2da92671ae6c
+Author: Khaleel Hassan <khaleelhassan246@gmail.comgit config --global user.email khaleelhassan246@gmail.com@>
+Date:   Sat May 8 13:47:35 2024 +0200
+
+    Makefile added
+
+commit abc3a03aa680f33e8d7e10ccdaa2f133fd549f48
+Author: Khaleel Hassan <khaleelhassan246@gmail.comgit config --global user.email khaleelhassan246@gmail.com@>
+Date:   Tue May 7 00:46:23 2024 +0200
+
+    Source files added
+(END)
+
