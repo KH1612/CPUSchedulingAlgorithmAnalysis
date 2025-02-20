@@ -1,3 +1,7 @@
+The aim of this project is to analyze the algorithms Shortest Job First and First Come First Server
+Statistical testing can be found in the Reports folder.
+To run this project, you will need to use make commands provided below after opening the project in console.
+
 Running:
 	Type "make FCFS" to run FCFS simulation
 	Type "make SJF" to run SJF algorithm
