@@ -2,6 +2,8 @@ The aim of this project is to analyze the algorithms Shortest Job First and Firs
 Statistical testing can be found in the Reports folder.
 To run this project, you will need to use make commands provided below after opening the project in console.
 
+The algorithms are run by simulating patrons at a bar with the drinks orders being served acting as CPU processes. Each patron runs on a separate thread hence simulating how a CPU would worth with relation to the tested algorithms.
+
 Running:
 	Type "make FCFS" to run FCFS simulation
 	Type "make SJF" to run SJF algorithm
